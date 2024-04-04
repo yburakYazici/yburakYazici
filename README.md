@@ -20,4 +20,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yburakyazici&" alt="yburakyazici" /></p>
 
 
-![snake gif](https://github.com/yburak.Yazici/yburak.Yazici/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yburakYazici/yburakYazici/blob/output/github-contribution-grid-snake.gif)
